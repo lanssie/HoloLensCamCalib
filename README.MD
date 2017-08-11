@@ -1,7 +1,6 @@
 HoloLens Camera Calibration
 ===
-Author: [Long Qian](http://longqian.me/aboutme)
-[Lanssie Ma] (lanssie.com)
+Author: [Lanssie Ma] (lanssie.com)
 
 Date: 8. 11. 2017
 
