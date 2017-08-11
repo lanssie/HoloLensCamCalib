@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  Lanssiekit.cpp
+c:\users\lanssie\downloads\lqs\lanssiekit\lanssie-test\lanssiekit\lanssiekit\lanssiekit.cpp(225): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1198,5): warning MSB8012: TargetPath(C:\Users\lanssie\Downloads\LQs\Lanssiekit\lanssie-test\Lanssiekit\x64\Debug\Lanssiekit.dll) does not match the Linker's OutputFile property value (C:\Users\lanssie\Downloads\LQs\HoloLensARToolKit-master\HoloLensARSample\Assets\Plugins\Editor\Lanssiekit.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+LINK : fatal error LNK1104: cannot open file 'python36_d.lib'

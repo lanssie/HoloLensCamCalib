@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  Lanssiekit.cpp
+Lanssiekit.cpp(215): warning C4101: 'kp': unreferenced local variable
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1198,5): warning MSB8012: TargetPath(C:\Users\lanssie\Downloads\LQs\Lanssiekit\lanssie-test\Lanssiekit\x64\Release\Lanssiekit.dll) does not match the Linker's OutputFile property value (C:\Users\lanssie\Downloads\LQs\HoloLensARToolKit-master\HoloLensARSample\Assets\Plugins\Editor\Lanssiekit.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library C:\Users\lanssie\Downloads\LQs\Lanssiekit\lanssie-test\Lanssiekit\x64\Release\Lanssiekit.lib and object C:\Users\lanssie\Downloads\LQs\Lanssiekit\lanssie-test\Lanssiekit\x64\Release\Lanssiekit.exp
+  Generating code
+  3 of 6 functions (50.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Lanssiekit.vcxproj -> C:\Users\lanssie\Downloads\LQs\Lanssiekit\lanssie-test\Lanssiekit\x64\Release\Lanssiekit.dll
